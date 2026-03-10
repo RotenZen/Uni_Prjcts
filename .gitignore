@@ -1,0 +1,12 @@
+# Ignore compiled C/C++ files
+*.exe
+*.o
+*.out
+
+# Ignore Java compiled files
+*.class
+*.jar
+
+# Ignore OS-specific clutter
+.DS_Store
+Thumbs.db
